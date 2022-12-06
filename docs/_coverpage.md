@@ -2,5 +2,5 @@
 
 <img src="./guitar.png" width=400px></img>
 
-Dirancang: I Made Dwipayana
+Dirancang: I Made Dwipayana 
 
